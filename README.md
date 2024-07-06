@@ -47,7 +47,7 @@ The dashboard includes the following tabs:
 Open your browser and navigate to `http://127.0.0.1:8050/`.
 
 ## Screenshots
-<img width="949" alt="image" src="https://github.com/Adxtxs/Solar-and-Weather-Data-Dashboard/assets/138885162/9f34357c-1ea6-4ecc-bbc1-9efb239bdeb7">
+<img width="952" alt="image" src="https://github.com/Adxtxs/Solar-and-Weather-Data-Dashboard/assets/138885162/e213a2dc-6325-4fc6-937b-f1eddc0d8540">
 <img width="947" alt="image" src="https://github.com/Adxtxs/Solar-and-Weather-Data-Dashboard/assets/138885162/ad031954-f501-4fff-a205-7b0bc58808aa">
 <img width="949" alt="image" src="https://github.com/Adxtxs/Solar-and-Weather-Data-Dashboard/assets/138885162/ba6850c8-33eb-4ccb-a5bf-85be18949b99">
 <img width="950" alt="image" src="https://github.com/Adxtxs/Solar-and-Weather-Data-Dashboard/assets/138885162/f66ec3df-b120-4b7e-8100-c6806960d99a">
